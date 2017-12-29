@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSO_Test", "SSO_Test\SSO_Test.csproj", "{C830D133-48E3-4A4C-9DBF-9C063B0B919E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSO_Entity", "SSO_Entity\SSO_Entity.csproj", "{D661767E-B9B4-4A78-963B-F5EA8BFEB55F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSO_Server", "SSO_Server\SSO_Server.csproj", "{5F1467E6-235C-4713-BCAA-A421D584FD8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSO_Security", "SSO_Security\SSO_Security.csproj", "{1066DFDF-551F-46C3-9C4F-7F418301B9E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSO_DaL", "SSO_DaL\SSO_DaL.csproj", "{432E2638-60C4-4596-AE9E-897919E7CB45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginAera", "LoginAera\LoginAera.csproj", "{1D2A3992-D181-40BD-9A01-087175ACCD88}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.1.211:8080/tfs/%E7%BB%9F%E4%B8%80%E8%AE%A4%E8%AF%81%E6%9C%8D%E5%8A%A1
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SSO_Test\\SSO_Test.csproj
+		SccProjectName1 = SSO_Test
+		SccLocalPath1 = SSO_Test
+		SccProjectUniqueName2 = SSO_Entity\\SSO_Entity.csproj
+		SccProjectName2 = SSO_Entity
+		SccLocalPath2 = SSO_Entity
+		SccProjectUniqueName3 = SSO_Server\\SSO_Server.csproj
+		SccProjectName3 = SSO_Server
+		SccLocalPath3 = SSO_Server
+		SccProjectUniqueName4 = SSO_Security\\SSO_Security.csproj
+		SccProjectName4 = SSO_Security
+		SccLocalPath4 = SSO_Security
+		SccProjectUniqueName5 = SSO_DaL\\SSO_DaL.csproj
+		SccProjectName5 = SSO_DaL
+		SccLocalPath5 = SSO_DaL
+		SccProjectUniqueName6 = LoginAera\\LoginAera.csproj
+		SccProjectName6 = LoginAera
+		SccLocalPath6 = LoginAera
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C830D133-48E3-4A4C-9DBF-9C063B0B919E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C830D133-48E3-4A4C-9DBF-9C063B0B919E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C830D133-48E3-4A4C-9DBF-9C063B0B919E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C830D133-48E3-4A4C-9DBF-9C063B0B919E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D661767E-B9B4-4A78-963B-F5EA8BFEB55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D661767E-B9B4-4A78-963B-F5EA8BFEB55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D661767E-B9B4-4A78-963B-F5EA8BFEB55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D661767E-B9B4-4A78-963B-F5EA8BFEB55F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1467E6-235C-4713-BCAA-A421D584FD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1467E6-235C-4713-BCAA-A421D584FD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1467E6-235C-4713-BCAA-A421D584FD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1467E6-235C-4713-BCAA-A421D584FD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1066DFDF-551F-46C3-9C4F-7F418301B9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1066DFDF-551F-46C3-9C4F-7F418301B9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1066DFDF-551F-46C3-9C4F-7F418301B9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1066DFDF-551F-46C3-9C4F-7F418301B9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432E2638-60C4-4596-AE9E-897919E7CB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432E2638-60C4-4596-AE9E-897919E7CB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432E2638-60C4-4596-AE9E-897919E7CB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432E2638-60C4-4596-AE9E-897919E7CB45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D2A3992-D181-40BD-9A01-087175ACCD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2A3992-D181-40BD-9A01-087175ACCD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2A3992-D181-40BD-9A01-087175ACCD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2A3992-D181-40BD-9A01-087175ACCD88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
